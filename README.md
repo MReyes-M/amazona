@@ -78,3 +78,26 @@
     a. click handler for inc/dec item
     b. click handler for remove item
     c. click handler for checkout
+
+16. Create sign in screen
+    a. create sign in form
+    b. add email and password
+    c. add sign in button
+
+17. Connect to MongoDb
+    a. create atlas mongodb db
+    b. install local mongodb
+    c. npm install mongoose
+    d. connect to mongodb
+
+18. Seed sample data
+    a. create product model
+    b. create user model
+    c. create seed route
+    d. use route in server.js
+    e. seed sample product
+
+19. Seed sample users
+    a. create user model
+    b. seed sample users
+    c. create user routes
