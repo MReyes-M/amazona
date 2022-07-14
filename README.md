@@ -64,3 +64,17 @@
     b. define a reducer
     c. create store provider
     d. implement add to cart button click handler
+
+13. Complete add to cart
+    a. check exist item in cart
+    b. check count in stock
+
+14. Create cart screen
+    a. create 2 columns
+    b. display items list
+    c. create action column
+
+15. Complete cart screen
+    a. click handler for inc/dec item
+    b. click handler for remove item
+    c. click handler for checkout
