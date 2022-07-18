@@ -101,3 +101,18 @@
     a. create user model
     b. seed sample users
     c. create user routes
+
+20. Create signing backend API
+    a. create signin api
+    b. npm install jsonwebtoken
+    c. define generate token
+
+21. Complete siginin screen
+    a. handle submit action
+    b. save token in store and local storage
+    c. show user name in header
+
+22. Create shipping screen
+    a. create form inputs
+    b. handle save shipping address
+    c. add checkout bar
