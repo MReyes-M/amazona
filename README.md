@@ -116,3 +116,21 @@
     a. create form inputs
     b. handle save shipping address
     c. add checkout bar
+
+23. Create sign up screen
+    a. create input forms
+    b. handle submit
+    c. create backend api
+
+24. Implement select payment method screen
+    a. create input forms
+    b. handle submit
+
+25. Create place order screen
+    a. show cart items, payment and address
+    b. handle place order action
+    c. create order create api
+
+26. Implement place order action
+    a. handle place order action
+    b. create order create api
