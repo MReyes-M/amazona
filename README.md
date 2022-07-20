@@ -134,3 +134,19 @@
 26. Implement place order action
     a. handle place order action
     b. create order create api
+
+27. Create order screen
+    a. create backend api
+    b. fetch order api in frontend
+    c. show order information in 2 columns
+
+28. Pay order by PayPal
+    a. generate paypal client id
+    b. create api to return client id
+    c. install react-paypal-js
+    d. use PayPalScriptProvider in index.js
+    e. use PayPalScriptProvider in order screen
+    f. implement loadPaypalScript function
+    g. render paypal button
+    h. implement onApprove payment function
+    i. create pay order api in backend
