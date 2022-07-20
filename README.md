@@ -150,3 +150,23 @@
     g. render paypal button
     h. implement onApprove payment function
     i. create pay order api in backend
+
+29. Display order history
+    a. create order screen
+    b. create order history api
+    c. use api in the frontend
+
+30. Create profile screen
+    a. get user info from context
+    b. show user information
+    c. create user update api
+    d. update user info
+
+31. Publish to Heroku
+    a. create and config node project
+    b. serve build folder in frontend folder
+    c. create heroku account
+    d. connect to github
+    e. create mongodb atlas db
+    f. set db connection in heroku env variables
+    g. commit and push
