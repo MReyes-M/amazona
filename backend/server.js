@@ -38,7 +38,12 @@ app.use((err, req, res, next) => {
 });
 
 
-const port = process.env.port || 5000;
-app.listen(port, () => {
-    console.log(`serve at http://localhost:${port}`);
-})
+// const port = process.env.port || 5000;
+// app.listen(port, () => {
+//     console.log(`serve at http://localhost:${port}`);
+// })
+
+const server = app.listen(process.env.PORT || 5000, () => {
+    const port = server.address().port;
+    console.log(`Server is working on port ${port}`);
+});
